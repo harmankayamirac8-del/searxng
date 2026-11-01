@@ -23,6 +23,7 @@
        recaptcha_SearxEngineCaptcha: 604800
      formats:
        - html
+- json
 
 ``safe_search``:
   Filter results.
